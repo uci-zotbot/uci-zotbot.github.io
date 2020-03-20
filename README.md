@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## What is ZotBot?
 
-You can use the [editor on GitHub](https://github.com/uci-zotbot/uci-zotbot.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ZotBot is the University of California Irvine’s Amazon Alexa Prize 2019 - 2020 competition team that is using artificial intelligence to create a social bot that can communicate with humans on current events and popular topics.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
