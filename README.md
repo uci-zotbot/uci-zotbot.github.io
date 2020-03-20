@@ -2,11 +2,9 @@
 
 ZotBot is the University of California Irvine’s Amazon Alexa Prize 2019 - 2020 competition team that is using artificial intelligence to create a social bot that can communicate with humans on current events and popular topics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What is the Alexa Prize Competition?
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The Alexa Prize Socialbot Grand Challenge is a competition for university students dedicated to accelerating the field of conversational AI.
 
 ```markdown
 Syntax highlighted code block
