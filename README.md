@@ -10,6 +10,15 @@ ZotBot is the University of California Irvine’s Amazon Alexa Prize 2019 - 2020
 
 The ZotBot team is made up of diverse undergraduate and graduate students from different disciplines with a passion for innovation. 
 
+### News
+https://developer.amazon.com/alexaprize
+https://www.cs.uci.edu/zotbot-competing-in-the-alexa-prize-socialbot-grand-challenge/
+
+### Contact Us
+
+Email:alexaucirvine@gmail.com
+Follow our [Facebook](https://www.facebook.com/alexaucirvine/) and [Twitter](https://twitter.com/alexaucirvine) to stay updated.
+
 ```markdown
 Syntax highlighted code block
 
@@ -32,6 +41,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 
 
-### Contact Us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
