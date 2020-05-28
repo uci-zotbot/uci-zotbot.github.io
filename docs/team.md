@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Zot Bot
+title: ZotBot
 ---
 
 This page is for our team members
