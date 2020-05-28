@@ -1,0 +1,15 @@
+###########
+# site.title
+
+title:    'ZotBot'
+subtitle: 'Alexa Prize 2019-2020'
+
+
+#########################
+# more settings
+
+markdown: kramdown
+
+exclude:
+- README.md
+- LICENSE.md
