@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ZotBot
+title: zotbot
 ---
 
 ## About ZotBot
