@@ -9,7 +9,7 @@ ZotBot is the University of California Irvine’s Amazon Alexa Prize 2019 - 2020
 Each team has received $250,000 in research funding to provide students with the valuable opportunity to work on an engineering project that's directly accessible by hundreds of thousands of public users. Teams also have access to the Alexa customer reviews to help them make decisions about the complex software engineering pipelines.
 
 ## Meet the ZotBot Team
-
+UCI
 The ZotBot team is a diverse group of students made up of undergraduate and graduate students from different disciplines with a passion for innovation. 
 William Schallock - project manager
 Claire Urata - project manager
