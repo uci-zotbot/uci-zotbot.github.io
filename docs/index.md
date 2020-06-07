@@ -14,7 +14,7 @@ Each team has received $250,000 in research funding to provide students with the
 
 ## Meet the ZotBot Team
 
-The ZotBot team is a diverse group of students made up of undergraduate and graduate students from different disciplines with a passion for innovation. 
+From UCI, The ZotBot team is a diverse group of students made up of undergraduate and graduate students from different disciplines with a passion for innovation. 
 William Schallock - project manager
 Claire Urata - project manager
 Ananth G
